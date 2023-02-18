@@ -1,4 +1,5 @@
 # PingTools in Windows
+(by powershell script)
 <br />
 <br />
 <br />
