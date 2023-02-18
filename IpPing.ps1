@@ -18,4 +18,4 @@ $output = $output | Sort-Object -Property MS
 $output = $output | ForEach-Object { "$($_.IP) - $($_.MS) ms" }
 $output += $errorIPs
 
-Set-Content "ip/$(Get-Date -Format 'yyyy-MM-dd-HH-mm').txt" $output
+Set-Content "result/$(Get-Date -Format 'yyyy-MM-dd-HH-mm').txt" $output
