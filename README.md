@@ -8,7 +8,8 @@
 4- The result is placed as a file in the "ip" folder.<br />
 <br />
 <br />
-1- <br />ابتدا فایل ها را دانلود کنید
-2- آی پی های مورد نظر خود را در فایل iplist.txt <br />قرار دهید
-3- برو IpPing.ps1 کلیک راست کرده و روی گزینه Run With Powershell <br />کلیک کنید
+
+1- ابتدا فایل ها را دانلود کنید<br />
+2- آی پی های مورد نظر خود را در فایل iplist.txt قرار دهید<br />
+3- برو IpPing.ps1 کلیک راست کرده و گزینه Run With Powershell انتخاب کنید<br />
 4- نتیجه بصورت فایلی در پوشه ip قرار می گیرد.<br />
